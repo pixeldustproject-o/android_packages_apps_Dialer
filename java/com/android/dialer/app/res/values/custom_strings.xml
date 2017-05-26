@@ -50,4 +50,9 @@
     <string name="call_via_dialog_title">Call via\u2026</string>
 
     <string name="other_settings_label">Other settings</string>
+
+    <!-- IMS related call logs -->
+    <string name="type_incoming_volte">Incoming 4G voice call</string>
+    <string name="type_outgoing_volte">Outgoing 4G voice call</string>
+    <string name="type_missed_volte">Missed 4G voice call</string>
 </resources>
