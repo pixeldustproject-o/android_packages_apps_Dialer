@@ -50,4 +50,7 @@
     <string name="call_recording_format">Audio format</string>
     <string name="wb_amr_format" translatable="false">AMR-WB</string>
     <string name="aac_format" translatable="false">AAC</string>
+
+    <!-- Call statistics -->
+    <string name="call_log_stats_title">Statistics</string>
 </resources>
