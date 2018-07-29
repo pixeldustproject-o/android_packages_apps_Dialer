@@ -37,4 +37,25 @@
   <string name="incall_dnd_dialog_message">Um \"Bitte nicht stören\" zu aktivieren, benötigt die Telefon-App die Berechtigung, den \"Bitte nicht stören\"-Status zu kontrollieren.\nBitte dies erlauben.</string>
   <string name="allow">Erlauben</string>
   <string name="deny">Verweigern</string>
+
+    <!-- Dialer postcall -->
+    <string name="enable_post_call_title">Hinweis bei Anrufweiterleitung</string>
+    <string name="enable_post_call_summary">Rufweiterleitungsbenachrichtigungen am unteren Bildschirmrand anzeigen</string>
+
+    <!-- InCallUI: SmartMute -->
+    <string name="smart_mute_title">Intelligente Stummschaltung</string>
+    <string name="smart_mute_summary">Eingehenden Anruf stummschalten, indem Sie das Gerät umdrehen</string>
+
+    <!-- Call recording -->
+    <string name="call_recording_category_title">Anrufaufzeichnung</string>
+    <string name="call_recording_format">Audio-Format</string>
+
+    <!-- Call statistics -->
+    <string name="call_log_stats_title">Anrufstatistiken</string>
+
+    <!-- Per-call account selection -->
+    <string name="call_via">Anruf über</string>
+    <string name="call_via_dialog_title">Anruf über\u2026</string>
+
+    <string name="other_settings_label">Weitere Einstellungen</string>
 </resources>
